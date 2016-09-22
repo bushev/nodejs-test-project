@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-test-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bushev/nodejs-test-project.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bushev/nodejs-test-project/issues"
+  },
+  "homepage": "https://github.com/bushev/nodejs-test-project#readme",
+  "dependencies": {
+    "mongoose": "4.6.1"
+  }
+}
